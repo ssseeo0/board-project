@@ -1,1 +1,3 @@
-export default function WritePage() {}
+export default function WritePage() {
+  return <main></main>;
+}
