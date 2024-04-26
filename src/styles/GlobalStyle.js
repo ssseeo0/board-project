@@ -14,6 +14,10 @@ export const GlobalStyle = createGlobalStyle`
         text-decoration: none;
     }
 
+    html {
+        font-family: "Pretendard", sans-serif;
+      }
+
     input, textarea { 
         -moz-user-select: auto;
         -webkit-user-select: auto;
